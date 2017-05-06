@@ -11,3 +11,7 @@ the pre-trained network should be put in the current folder.
 the database should be put in /data folder.
 
 the start code is experiments.m
+
+#SE-VLAD pooling layer
+
+still working on it
