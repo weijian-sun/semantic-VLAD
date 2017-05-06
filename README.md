@@ -14,4 +14,4 @@ the start code is experiments.m
 
 # SE-VLAD pooling layer
 
-still working on it
+not reliable, still in test
